@@ -3,8 +3,9 @@
 
 #generated files
 
-target/
+target/*
 
 #eclipse project files
 .classpath
 .project
+
