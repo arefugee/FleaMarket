@@ -1,0 +1,10 @@
+#java class file
+.class
+
+#generated files
+
+target/
+
+#eclipse project files
+.classpath
+.project
