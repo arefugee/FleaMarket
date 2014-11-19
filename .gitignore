@@ -2,8 +2,8 @@
 .class
 
 #generated files
-
 target/*
+.settings/*
 
 #eclipse project files
 .classpath
